@@ -1,0 +1,32 @@
+{
+  "name": "electron-adventure",
+  "version": "0.0.2",
+  "description": "Learn the Electron (formerly atom-shell) with this educational workshop",
+  "main": "index.js",
+  "dependencies": {
+    "workshopper-adventure": "^4.3.1",
+    "workshopper-boilerplate": "^1.1.0",
+    "workshopper-exercise": "^2.5.3",
+    "workshopper-wrappedexec": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotayamashita/electron-adventure.git"
+  },
+  "keywords": [
+    "electron",
+    "atom-shell",
+    "workshop",
+    "adventure"
+  ],
+  "author": "Sota Yamashita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sotayamashita/electron-adventure/issues"
+  },
+  "homepage": "https://github.com/sotayamashita/electron-adventure#readme"
+}
