@@ -9,7 +9,7 @@
 <img src="https://dl.dropboxusercontent.com/u/74344418/github-image/electron-adventure.png" width="700" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <b><a href="#install">Install</a></b>
   |
   <b><a href="#exercises">Exercises</a></b>
@@ -17,7 +17,7 @@
   <b><a href="#contributing">Contributing</a></b>
   |
   <b><a href="#license">License</a></b>
-</p>
+</p> -->
 
 
 ## Install
@@ -31,18 +31,3 @@ Then you will have a `electron-adventure` command:
 ```
 $ electron-adventure
 ```
-
-## Exercises
-
-## Contributing
-
-Contributions are very welcome! Please have a look at [CONTRIBUTING](CONTRIBUTING) for guidelines.
-
-## License
-
-[MIT][mit] © [Sota Yamashita](https://github.com/sotayamashita)
-
-[mit]:            https://github.com/sotayamashita/electron-adventure/blob/master/LICENSE
-[mit-badge]:      https://img.shields.io/github/license/sotayamashita/electron-adventure.svg?style=flat-square
-[npm-pkg-link]:   https://www.npmjs.org/package/electron-adventure
-[npm-badge]:      https://img.shields.io/npm/v/electron-adventure.svg?style=flat-square
