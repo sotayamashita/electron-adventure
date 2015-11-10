@@ -31,3 +31,8 @@ Then you will have a `electron-adventure` command:
 ```
 $ electron-adventure
 ```
+
+[mit]:            https://github.com/sotayamashita/electron-adventure/blob/master/LICENSE
+[mit-badge]:      https://img.shields.io/github/license/sotayamashita/electron-adventure.svg?style=flat-square
+[npm-pkg-link]:   https://www.npmjs.org/package/electron-adventure
+[npm-badge]:      https://img.shields.io/npm/v/electron-adventure.svg?style=flat-square
