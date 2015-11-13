@@ -12,12 +12,18 @@
   },
   "keywords": [
     "Electron",
-    "atom-shell"
+    "atom-shell",
+    "workshopper",
+    "nodeschool"
   ],
   "author": "Sota Yamashita",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sotayamashita/electron-adventure/issues"
   },
-  "homepage": "https://github.com/sotayamashita/electron-adventure#readme"
+  "homepage": "https://github.com/sotayamashita/electron-adventure#readme",
+  "dependencies": {
+    "workshopper-adventure": "^4.3.1",
+    "workshopper-exercise": "^2.5.3"
+  }
 }
