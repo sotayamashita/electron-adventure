@@ -1,0 +1,23 @@
+{
+  "name": "electron-adventure",
+  "version": "0.0.2",
+  "description": "Learn the Electron (formerly atom-shell) with this educational workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotayamashita/electron-adventure.git"
+  },
+  "keywords": [
+    "Electron",
+    "atom-shell"
+  ],
+  "author": "Sota Yamashita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sotayamashita/electron-adventure/issues"
+  },
+  "homepage": "https://github.com/sotayamashita/electron-adventure#readme"
+}
