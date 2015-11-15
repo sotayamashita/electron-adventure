@@ -18,11 +18,16 @@
   ],
   "author": "Sota Yamashita",
   "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "electron-adventure": "./bin/electron-adventure"
+  },
   "bugs": {
     "url": "https://github.com/sotayamashita/electron-adventure/issues"
   },
   "homepage": "https://github.com/sotayamashita/electron-adventure#readme",
   "dependencies": {
+    "electron-prebuilt": "^0.34.3",
     "workshopper-adventure": "^4.3.1",
     "workshopper-exercise": "^2.5.3"
   }
