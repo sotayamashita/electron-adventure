@@ -4,7 +4,9 @@
   "description": "Learn the Electron (formerly atom-shell) with this educational workshop",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "repository": {
     "type": "git",
@@ -29,6 +31,8 @@
   "dependencies": {
     "electron-prebuilt": "^0.34.3",
     "workshopper-adventure": "^4.3.1",
-    "workshopper-exercise": "^2.5.3"
-  }
+    "workshopper-exercise": "^2.5.3",
+    "snyk": "^1.47.0"
+  },
+  "snyk": true
 }
